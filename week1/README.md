@@ -1,0 +1,1 @@
+Week 0 was easy, i struggled with nothing
