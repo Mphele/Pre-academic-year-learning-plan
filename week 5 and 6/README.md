@@ -7,7 +7,7 @@
 ## Weaknesses:
 - No significant weaknesses 
 
-# WEEK 5 (problem set 6 )
+# WEEK 5 (problem set 4 )
 
 ## Strengths:
 - Comfortable importing and installing libraries and using their different modules
