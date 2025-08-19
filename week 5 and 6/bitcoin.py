@@ -2,7 +2,7 @@ import requests
 import sys
 while True:
     try:
-        response = requests.get("https://rest.coincap.io/v3/assets/bitcoin?apiKey=7ee6005a4246e1ae5c178fd94effcbbcbf8057f3661c9cd9d47012bc7c397a42")
+        response = requests.get("https://rest.coincap.io/v3/assets/bitcoin?apiKey=INSERT KEY HERE TO TEST")
         break
     except requests.RequestException:
         print("API error")
